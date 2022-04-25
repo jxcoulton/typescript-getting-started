@@ -3,7 +3,7 @@
   "compilerOptions": {
     "removeComments": true,
     "module": "commonjs",
-    "moduleResolution": "node",
+    // "moduleResolution": "node",
     "traceResolution": true
   },
   "files": [
